@@ -1,0 +1,23 @@
+# patient data, predictions and outputs must never be committed
+data/*
+!data/README.md
+runs/
+weights/
+outputs/
+*.nii
+*.nii.gz
+*.npz
+*.pth
+*.pt
+*.csv
+wandb/
+logs/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.claude/
+Thumbs.db
+.DS_Store

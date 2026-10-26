@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the preprint below (the manuscript is under review)."
+title: "Code for: Comparation of CT/PET/MRI in deep learning models for outcome prediction in oropharyngeal cancer patients"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/baoqiangma96/OPC-CT-PET-MRI-outcome-prediction"
+authors:
+  - family-names: Ma
+    given-names: Baoqiang
+  - family-names: Guo
+    given-names: Jiapan
+  - family-names: van Dijk
+    given-names: Lisanne V.
+  - family-names: Langendijk
+    given-names: Johannes A.
+  - family-names: van Ooijen
+    given-names: Peter M. A.
+  - family-names: Both
+    given-names: Stefan
+  - family-names: Sijtsema
+    given-names: Nanna M.
+preferred-citation:
+  type: article
+  status: preprint
+  title: "Comparation of CT/PET/MRI in deep learning models for outcome prediction in oropharyngeal cancer patients"
+  journal: "Research Square"
+  doi: "10.21203/rs.3.rs-8163685/v1"
+  url: "https://www.researchsquare.com/article/rs-8163685/v1"
+  year: 2025
+  month: 12
+  authors:
+    - family-names: Ma
+      given-names: Baoqiang
+    - family-names: Guo
+      given-names: Jiapan
+    - family-names: van Dijk
+      given-names: Lisanne V.
+    - family-names: Langendijk
+      given-names: Johannes A.
+    - family-names: van Ooijen
+      given-names: Peter M. A.
+    - family-names: Both
+      given-names: Stefan
+    - family-names: Sijtsema
+      given-names: Nanna M.

@@ -1,0 +1,15 @@
+# versions used to test this repository (Python 3.11)
+torch==2.14.1
+monai==1.6.1
+numpy==2.4.6
+scipy==1.17.1
+pandas==2.3.3
+scikit-learn==1.9.1
+SimpleITK==2.5.6
+nibabel==5.4.2
+lifelines==0.30.3
+statsmodels
+matplotlib==3.11.2
+# optional
+# pydicom      preprocessing/mri_00_header_parameters.py
+# wandb        train.py --wandb_project

@@ -1,0 +1,12 @@
+# conda env create -f environment.yml && conda activate opc-dl
+# Tested (inference, analyses, smoke test) with the versions in requirements.txt on CPU. For GPU training install
+# the CUDA build of PyTorch (https://pytorch.org). The published models were trained with PyTorch 1.12.1
+# (CUDA 11.7) and MONAI 1.x.
+name: opc-dl
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - -r requirements.txt
