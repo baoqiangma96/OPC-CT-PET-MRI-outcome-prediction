@@ -10,6 +10,9 @@ Code accompanying the manuscript
 in `analysis/` were added during the review and are not in the preprint. This README will be updated with the
 journal reference after publication.
 
+<img width="3334" height="1913" alt="graphical abstract" src="https://github.com/user-attachments/assets/a8dc76b4-ce81-4793-a5b5-24c8f7c970bd" />
+
+
 The study trains 2D and 3D ResNet18 survival models on pre-treatment CT, FDG-PET, T1- and T2-weighted MRI of 266
 patients with oropharyngeal cancer (186 training with three-fold cross-validation, 80 test). It predicts local
 control (LC), regional control (RC) and overall survival (OS), and compares the models with the clinical
