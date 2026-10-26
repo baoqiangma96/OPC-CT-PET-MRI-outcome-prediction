@@ -119,8 +119,6 @@ python predict.py --config 2D_T2_GTV_cmargin --endpoint LC --weights_root runs \
   scripts reproduce the paper's tables.
 * GPU training is not bit-wise deterministic, so retrained networks differ slightly from the study's networks.
 
-Read [docs/known_issues.md](docs/known_issues.md) before re-using the training code. Among other things, the loss
-the study networks were trained with does not use the event indicator as intended.
 
 ## Citation, licence, contact
 
